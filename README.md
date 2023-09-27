@@ -156,9 +156,9 @@ Understanding the basics of programming, the internet, and the tools you'll be u
 
  #### Week tasks
 
-- [ ]  Watch [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&ab_channel=freeCodeCamp.org)
-- [ ]  Watch [The Programming Language Guide](https://youtu.be/2lVDktWK-pc)
-- [ ]  Watch [How does the internet work? (Full Course)](https://youtu.be/zN8YNNHcaZc)
+- [x]  Watch [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E&ab_channel=freeCodeCamp.org)
+- [x]  Watch [The Programming Language Guide](https://youtu.be/2lVDktWK-pc)
+- [x]  Watch [How does the internet work? (Full Course)](https://youtu.be/zN8YNNHcaZc)
 - [ ]  Watch [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo&t=1s)
     - [ ]  Download and configure Visual Studio Code
 - [ ]  Watch [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
