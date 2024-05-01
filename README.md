@@ -161,10 +161,10 @@ Understanding the basics of programming, the internet, and the tools you'll be u
 - [x]  Watch [How does the internet work? (Full Course)](https://youtu.be/zN8YNNHcaZc)
 - [x]  Watch [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo&t=1s)
     - [x]  Download and configure Visual Studio Code
-- [ ]  Watch [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
-    - [ ]  Create a [Github](https://github.com/) account
-    - [ ]  Download [Git](https://git-scm.com/downloads)
-    - [ ]  Create and publish a first Github repository containing only a text file with your name
+- [x]  Watch [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
+    - [x]  Create a [Github](https://github.com/) account
+    - [x]  Download [Git](https://git-scm.com/downloads)
+    - [x]  Create and publish a first Github repository containing only a text file with your name
     - [ ]  Fork this repository and update the MD file as soon as you proceed with the roadmap
 - [ ]  Create a [Linkedin](https://www.linkedin.com/) account (we will optimize it in the next weeks)
     - [ ]  Send me a [connection](https://www.linkedin.com/in/alfonso-graziano/) if you want
