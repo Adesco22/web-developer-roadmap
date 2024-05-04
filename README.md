@@ -188,7 +188,7 @@ HTML creates the basic structure of a web page. With CSS we can add style, anima
  
  #### Week tasks
 
-- [ ]  Watch [HTML & CSS for Beginners | FREE MEGA COURSE (7+ Hours!)](https://www.youtube.com/watch?v=iG2jotQo9NI&ab_channel=EnvatoTuts%2B)
+- [x]  Watch [HTML & CSS for Beginners | FREE MEGA COURSE (7+ Hours!)](https://www.youtube.com/watch?v=iG2jotQo9NI&ab_channel=EnvatoTuts%2B)
 - [ ]  Watch [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://youtu.be/lCxcTsOHrjo)
 - [ ]  Create an account on [Frontend Mentor](https://www.frontendmentor.io/)
     - [ ]  Complete at least [5 challenges](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free) with HTML + CSS and publish them on Github
