@@ -190,13 +190,13 @@ HTML creates the basic structure of a web page. With CSS we can add style, anima
 
 - [x]  Watch [HTML & CSS for Beginners | FREE MEGA COURSE (7+ Hours!)](https://www.youtube.com/watch?v=iG2jotQo9NI&ab_channel=EnvatoTuts%2B)
 - [x]  Watch [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://youtu.be/lCxcTsOHrjo)
-- [ ]  Create an account on [Frontend Mentor](https://www.frontendmentor.io/)
-    - [ ]  Complete at least [5 challenges](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free) with HTML + CSS and publish them on Github
-- [ ]  Validate your knowledge with [HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) & [CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS)
-- [ ]  Improve your social presence
-    - [ ]  Create your first Linkedin post by explaining who you are, what are you studying, and why you decided to start this journey
-    - [ ]  Connect with at least 10 software developers. You can search for them in your city for example.
-- [ ]  Join software developer's [Discord communities](https://dev.to/htnguy/top-10-discord-servers-for-developers-559o) and start to interact with them
+- [X]  Create an account on [Frontend Mentor](https://www.frontendmentor.io/)
+    - [X]  Complete at least [5 challenges](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free) with HTML + CSS and publish them on Github
+- [X]  Validate your knowledge with [HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) & [CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS)
+- [X]  Improve your social presence
+    - [X]  Create your first Linkedin post by explaining who you are, what are you studying, and why you decided to start this journey
+    - [X]  Connect with at least 10 software developers. You can search for them in your city for example.
+- [X]  Join software developer's [Discord communities](https://dev.to/htnguy/top-10-discord-servers-for-developers-559o) and start to interact with them
 
 Right now you should have an understanding of how the DOM works, how to style HTML, and you should already have a few projects on Github, congratulations! 🎉
 
