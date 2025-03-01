@@ -235,8 +235,8 @@ I remember when I started coding for the first time. It was interesting but hard
 
  #### Week tasks
 
-- [ ]  Watch [JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)](https://youtu.be/lI1ae4REbFM)
-    - [ ]  Replicate the two portfolio projects at the end and add them to your Github profile
+- [x]  Watch [JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)](https://youtu.be/lI1ae4REbFM)
+    - [x]  Replicate the two portfolio projects at the end and add them to your Github profile
 - [ ]  Complete at least [10 challenges](https://www.frontendmentor.io/challenges?languages=HTML|CSS,HTML|CSS|JS&types=free) with HTML + CSS and publish them on Github
 - [ ]  Practice as much as you can with [Exercism](https://exercism.org/tracks/javascript/exercises)
 - [ ]  Start learning a few [Software Development soft skills](https://www.youtube.com/playlist?list=PL32pD389V8xsYo9ETSd4JTu5EYYLcYZCu)
